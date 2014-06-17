@@ -1,0 +1,22 @@
+C:\Users\mike.clark\AppData\Local\Temporary Projects\CodeSandbox\bin\Debug\CodeSandbox.exe.config
+C:\Users\mike.clark\AppData\Local\Temporary Projects\CodeSandbox\bin\Debug\CodeSandbox.exe
+C:\Users\mike.clark\AppData\Local\Temporary Projects\CodeSandbox\bin\Debug\CodeSandbox.pdb
+C:\Users\mike.clark\AppData\Local\Temporary Projects\CodeSandbox\obj\Debug\CodeSandbox.csprojResolveAssemblyReference.cache
+C:\Users\mike.clark\AppData\Local\Temporary Projects\CodeSandbox\obj\Debug\CodeSandbox.exe
+C:\Users\mike.clark\AppData\Local\Temporary Projects\CodeSandbox\obj\Debug\CodeSandbox.pdb
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\CodeSandbox.exe.config
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\obj\Debug\CodeSandbox.exe
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\obj\Debug\CodeSandbox.pdb
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\CodeSandbox.exe
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\CodeSandbox.pdb
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\FluentAssertions.Core.dll
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\FluentAssertions.dll
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\Moq.dll
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\nunit.framework.dll
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\FluentAssertions.pdb
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\FluentAssertions.xml
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\FluentAssertions.Core.xml
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\Moq.xml
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\bin\Debug\nunit.framework.xml
+C:\Users\mike.clark\Projects\CodeSandbox\CodeSandbox\obj\Debug\CodeSandbox.csprojResolveAssemblyReference.cache
